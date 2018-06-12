@@ -4,7 +4,7 @@ MintBlog aims to be an easy to use and setup webpage that can display static inf
 
 Install
 -
-1. Move the directory `MintBlog` to your web servers directory and rename it to whatever you want
+1. `git clone https://github.com/Puffycheeses/MintBlog.git` into your web server's directory
 2. Create a file called `posts.json` in `Data` and follow the `README` in the `Data` directory
 3. Visit the webpage
 
