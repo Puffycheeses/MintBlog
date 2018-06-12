@@ -8,12 +8,12 @@ create a file here called `posts.json` the file should look like this (example):
         {
             "Album": "Age Of",
             "Body": "Data/Text/Age Of.txt",
-            "Image": "Images/Age Of.jpg"
+            "Image": "Data/Images/Age Of.jpg"
         },
         {
             "Album": "Transistor",
             "Body": "Data/Text/Transistor.txt",
-            "Image": "Images/Transistor.jpg"
+            "Image": "Data/Images/Transistor.jpg"
         }
     ]
 }
